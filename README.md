@@ -29,9 +29,8 @@ likely to be accepted.
 
 ## Communication Channel
 
-#### See here: <br /> 
 
-In this File you will find all What you need to Know about communications and you will find our organizers mailing list **[Communication Channels](Communication_channels.md)**
+In this File  **[Communication Channels](Communication_channels.md)**  you will find all What you need to Know about communications and you will find our organizers mailing list
 
 
 
