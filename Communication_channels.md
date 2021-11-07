@@ -4,7 +4,7 @@ in this File you will find the way to communicate with Our team.
 ### Malinig List: 
 Amat Alaleem : h.amatalaleem@gmail.com <br />
 Gehad Alsyed : Gelsayed112@gmail.com <br />
-Tala Ziad : 20180916@stu.uob.edu.bh <br />
+Tala Ziad : Tala.z.alashkar@gmail.com <br />
 Mariam Wayel: 20174867@stu.uob.edu.bh <br />
 Mariam Azzam :20166741@stu.uob.edu.bh <br />
 
