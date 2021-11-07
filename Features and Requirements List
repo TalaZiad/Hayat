@@ -1,4 +1,4 @@
-Features: 
+###Features: 
 The system has several features that enable users to implement many functions easily
 Security: One of the components of the system is an online consultation platform which will work by establishing a secure connection between the patient and the medical consultant. Also, the pharmacy retail system would require the highest security standards to handle transactions etc.
 
@@ -15,5 +15,5 @@ Search Feature: The system will include a search feature for user to look up var
 
 Delivery: The system will also handle order and delivery services.
 
-Requirements:
+###Requirements:
 ·	Frappe reference architecture 
