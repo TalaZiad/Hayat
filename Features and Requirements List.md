@@ -1,5 +1,5 @@
 ###Features: 
-The system has several features that enable users to implement many functions easily
+The system has several features that enable users to implement many functions easily 
 Security: One of the components of the system is an online consultation platform which will work by establishing a secure connection between the patient and the medical consultant. Also, the pharmacy retail system would require the highest security standards to handle transactions etc.
 
 Privacy: The platform will also maintain a high level of privacy since the system deals with the user’s personal information and medical records.
