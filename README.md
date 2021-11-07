@@ -16,11 +16,26 @@ the system can be helpful to some extent even in the recent pandemic of COVID-19
 
 
 ## How to Contribute
-Please read the paragarph below to know how you can add a pull request:
+<b> Please read the paragarph below to know how you can add a pull request: </b></br>
+1. <b> Obvious bug fixes will be merged quickly,</b> however less obvious cases should include a clear description of how
+to reproduce the bug. Complex cases must be accompanied with the new unit tests.
 
+2. <b> Before suggesting PR's for new features </b>- please first discuss those features in the "Issues section". your efforts
+is really appreciated, but PR's may not be accepted and it might be disappointing - so please communicate.
+  
+3. <b> Please always use feature branches for the PR's, </b> multiple feature/bugfix PR's are harder to understand and less
+likely to be accepted.
 
 
 ## Communication Channel
+We are using Microsoft Teams chatRooms to hold disscustions and to Share files.
+Please send an e-mail With:
+
+Your name </br>
+E-mail adress </br>
+How you would like to improve our project </br>
+Which Role you would like to take in the Project </br>
+To h.amatalaleem@gmail.com to add you to our MS chat Room and instroduce you to the team.
 
 ## FAQs
 
