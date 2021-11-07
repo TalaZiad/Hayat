@@ -28,14 +28,12 @@ likely to be accepted.
 
 
 ## Communication Channel
-We are using Microsoft Teams chatRooms to hold disscustions and to Share files.
-Please send an e-mail With:
 
-Your name </br>
-E-mail adress </br>
-How you would like to improve our project </br>
-Which Role you would like to take in the Project </br>
-To h.amatalaleem@gmail.com to add you to our MS chat Room and instroduce you to the team.
+#### See here: <br /> 
+
+In this File you will find all What you need to Know about communications and you will find our organizers mailing list **[Communication Channels](Communication_channels.md)**
+
+
 
 ## FAQs
 
