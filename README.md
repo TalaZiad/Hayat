@@ -36,4 +36,4 @@ In this File  **[Communication Channels](Communication_channels.md)**  you will 
 
 
 ## FAQs
-
+https://github.com/TalaZiad/Hayat/blob/main/MaintainingFAQs.md
