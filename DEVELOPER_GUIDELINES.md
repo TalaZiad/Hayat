@@ -2,7 +2,7 @@
 In this file, we provide you with complete instrucations to be part of our project. 
 
 ### Team interaction:
-Pleas refer to communcations_channels.md to have full understanading of our communicating method. 
+Pleas refer to (COmmunication Channels).[communcations_channels.md] to have full understanading of our communicating method. 
 
 ### Reporting a Bug: 
 You will have the ablity to Report bugs. 
