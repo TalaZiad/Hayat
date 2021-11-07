@@ -22,4 +22,4 @@ We use whatsapp to send quick notifications and reminders about the meetings.
 To join the Whatsapp Group please send an e-amil to one of the Project admins with your  name and phone number. 
 
 ### Project Google Drive Folder:
-
+https://drive.google.com/drive/u/1/folders/19lf4DunThX-sZrYgJHPWrXz5cM3Ho8OC
