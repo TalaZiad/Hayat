@@ -2,7 +2,7 @@
 In this file, we provide you with complete instrucations to be part of our project. 
 
 ### Team interaction:
-Pleas refer to (COmmunication Channels).[communcations_channels.md] to have full understanading of our communicating method. 
+Pleas refer to  **[Communication Channels](Communication_channels.md)**  to have full understanading of our communicating method. 
 
 ### Reporting a Bug: 
 You will have the ablity to Report bugs. 
@@ -23,4 +23,10 @@ Push your local changes to your remote branch by using the command : git push.
 Open a PR for your feature, ask for a review from another developer. 
 After getting an approvel from another Devloper, Merge your PR with the master. 
 
-That is it. Your Feature has beene deployed. 
+That is it. Your Feature has beene deployed.
+
+### Env
+In this Project we use three different enveronements: 
+1. Staging: all new features are deployed to the staging env first. We test all features together in this env.
+2. Beta(Q&A) : This env is for testing perpouse and for Quilty assurance. 
+3. Producation: After testing the features on Staging and on Beta we release the changes to the producation where they become live for the end users. 
