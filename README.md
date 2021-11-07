@@ -1,7 +1,8 @@
 # Hayat
 
-Since the world is currently going through a stage of pandemic COVD-19, new and innovative ways of healthcare solutions must be introduced. This project addresses an opportunity to provide a tool which supports both patients and Medical practitioners in the evolution of healthcare experience with the goal to optimize the overall health and wellness. The goal of this project is to provide both the patients and medical practitioners a platform which will facilitate ease of medical consultation. Moreover, our system is also built to facilitate ordering medicines from pharmacy. It will also include features to improve and track delivery services.
+Since the world is currently going through a stage of pandemic COVD-19, new and innovative ways of healthcare solutions must be introduced. This project addresses an opportunity to provide a tool which supports both patients and Medical practitioners in the evolution of healthcare experience with the goal to optimize the overall health and wellness. The goal of this project is to provide both the patients and medical practitioners a platform which will facilitate ease of medical consultation. Moreover, our system is also built to facilitate ordering medicines from pharmacy. It will also include features to improve and track delivery services. 
 
+This system is a free open-source software system, developed under the GNU General Public License (GPL) license. Feel free to participate. 
 
 
 The project title is Hayat. It is proposed using two ideas.
