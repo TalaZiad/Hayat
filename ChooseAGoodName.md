@@ -7,12 +7,17 @@ The system is intended to decrease the mortality rate amongst the citizens of Ba
 
 There are some limitations that can be listed as follows:
 
-1-The system will be implemented by high-level languages and supports Java, JavaScript, HTML, PHP only 
+1-The system will be implemented by high-level languages and supports Java, JavaScript, HTML, PHP only.
+
 2-•The software should be accessed by pharmacies (to supply medicines), doctors, and patients (for online medical consultation and buying medicines).
+
 3-•Doctor’s profile will be automatically deleted when the doctor retires.
+
 4-The project will be completed after 3 months from the start date, with no exceptions. the system’s lifespan can last up to10 years if maintained and updated regularly.
 
 Online Medical Consultation and Pharmacy Management System core business goal is to provide a complete online medical consultation platform that 
 •connects with various entities
+
 •provides services to a various entity
+
 While also maintaining a pharmacy retail system. This platform would help and enable people to have better access to their medical needs. Our system would also promote local business by building partnerships with various (medical) entities.
