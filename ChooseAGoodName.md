@@ -16,6 +16,7 @@ There are some limitations that can be listed as follows:
 4-The project will be completed after 3 months from the start date, with no exceptions. the system’s lifespan can last up to10 years if maintained and updated regularly.
 
 Online Medical Consultation and Pharmacy Management System core business goal is to provide a complete online medical consultation platform that 
+
 •connects with various entities
 
 •provides services to a various entity
