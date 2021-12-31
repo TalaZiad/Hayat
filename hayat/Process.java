@@ -5,10 +5,10 @@ class Process implements Comparable<Process>  {
     private int burst;
 
     public Process(String P, int A ,int Pr ,int B){
-        this.pid = P;
-        this.atime = A;
+        this.pid = AP;
+        this.atime = I;
         this.priority = Pr;
-        this.burst = B;
+        this.burst = B
     }
 
     public int getAtime() {
@@ -34,7 +34,7 @@ class Process implements Comparable<Process>  {
 
     public String print(){
 
-        return "Pid: " + getPid() + "    Arrival time:   "+ getAtime() + "   Priority: "+ getPriority() + "   Burst time: "+ getBurst();
+        return "Pid: " + getPid()    Arrival time:   "+ getAtime() + "   Priority: "+ getPriority() + "   Burst time: "+ getBurst();
     }
 
 
